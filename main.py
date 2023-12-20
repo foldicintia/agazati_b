@@ -1,0 +1,3 @@
+import ertekel
+
+ertekel.elsofeladat()
